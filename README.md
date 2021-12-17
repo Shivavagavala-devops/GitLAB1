@@ -10,6 +10,10 @@ d4
 db3
 db2
 db1
+nb4
+nb3
+nb2
+nb1
 d3
 d2
 d1
