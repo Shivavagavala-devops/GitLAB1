@@ -1,6 +1,9 @@
 d8
 r4
 r3
+db6
+db5
+db4
 r2
 r1
 d4
